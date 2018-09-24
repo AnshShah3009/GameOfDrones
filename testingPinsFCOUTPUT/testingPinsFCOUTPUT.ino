@@ -1,4 +1,3 @@
-//FAILED
 #include<Servo.h>
 Servo myservo;
 void setup() {
